@@ -1,5 +1,5 @@
 ---
-title: Friendly Tag Tutorial В
+title: Friendly Tag Tutorial D
 description: Trololo aksjhd iuert ncv bslirur nty
 tags: software-product>alloy, topic>big-data, tutorial>advanced
 primary_tag: software-product>sap-hana
