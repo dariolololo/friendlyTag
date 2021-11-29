@@ -1,7 +1,7 @@
 ---
 author_name: Marco Porru
 author_profile: https://github.com/marco-porru
-title: 
+title: Friendly tag E
 description: Get all the configuration parameters required for the installation of the Edge Gateway Service.
 auto_validation: true
 time: 10
